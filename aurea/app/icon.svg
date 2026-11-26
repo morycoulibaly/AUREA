@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>AUREA</title>
+  <rect width="64" height="64" rx="16" fill="#0E0D12"/>
+  <path d="M32 11 13.5 51h8.2l3.4-7.7h13.8l3.4 7.7h8.2L32 11Zm0 13.2 4.3 11.2h-8.6L32 24.2Z" fill="#E6C288"/>
+</svg>
